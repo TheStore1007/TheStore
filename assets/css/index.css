@@ -366,13 +366,13 @@ button {
 }
 
 .pages_inner table thead tr{
-      height: 1rem;
+      height: 2rem;
       background: var(--hover);
       text-transform: uppercase;
 }
 
 .pages_inner table tbody tr{
-      height: 1rem;
+      height: 2rem;
       text-align: center;
       border-bottom: solid .1rem var(--border);
       transition: .2s;

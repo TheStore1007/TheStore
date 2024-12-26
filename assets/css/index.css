@@ -366,7 +366,7 @@ button {
 }
 
 .pages_inner table thead tr{
-      height: 2rem;
+      height: 3rem;
       background: var(--hover);
       text-transform: uppercase;
 }
